@@ -1,8 +1,5 @@
 # Hi, 👋  I am  Shailendra Saxena
-- 👀 Python/Azure/AWS 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👀 Python/Azure/AWS 
 
 <!---
 smsaxena19/smsaxena19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
